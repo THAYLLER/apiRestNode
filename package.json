@@ -18,5 +18,10 @@
     "jsonwebtoken": "^8.1.0",
     "jwks-rsa": "^1.2.1",
     "mongoose": "^4.13.6"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2",
+    "tape": "^4.11.0"
   }
 }
