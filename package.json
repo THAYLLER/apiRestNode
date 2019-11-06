@@ -17,6 +17,6 @@
     "hapi-auth-jwt2": "github:salzhrani/hapi-auth-jwt2#v-17",
     "jsonwebtoken": "^8.1.0",
     "jwks-rsa": "^1.2.1",
-    "mongoose": "^4.13.6"
+    "mongoose": "^5.7.5"
   }
 }
